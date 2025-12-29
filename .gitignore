@@ -1,9 +1,6 @@
-/Build
-earthquakeFetcher.xcodeproj
-obj/
-bin/
-*.db
-*.db-
-Debug/
-.idea/
-earthquake_fetcher.sln.DotSettings.user
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
