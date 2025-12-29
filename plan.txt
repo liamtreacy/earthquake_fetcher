@@ -1,2 +1,0 @@
-Have cucumber tests start up web api (can be written in ruby or whatever)
-Keep dotnet test for unit tests
